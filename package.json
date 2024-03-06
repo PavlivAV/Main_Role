@@ -1,0 +1,19 @@
+{
+  "name": "main_role",
+  "version": "1.0.0",
+  "description": "Main_role_options",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PavlivAV/Main_Role.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PavlivAV/Main_Role/issues"
+  },
+  "homepage": "https://github.com/PavlivAV/Main_Role#readme"
+}
